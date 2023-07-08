@@ -3,6 +3,9 @@
 Fique a vontade para explorar o que for preciso no meu repositório.
 <br><br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italobaciliere-edu&hide=prs&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 ### Tecnologias Trabalhadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -11,6 +14,9 @@ Fique a vontade para explorar o que for preciso no meu repositório.
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
 </div>
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italobaciliere-edu&hide_progress=true&theme=merko)
+<br><br>
 <!-- 
 Spring Batch 
 Spring Security
@@ -45,5 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italobaciliere-edu&hide=prs&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
